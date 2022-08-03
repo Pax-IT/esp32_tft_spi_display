@@ -16,11 +16,13 @@ ESP32-WROOM-32 (ALI-EXPRESS)
 
 # pin mapping
 
-LED     V5
-SCK     D27
-SDA     D14
-A0      D12
-RESET   (not used)
-CS      D13
-GND     GND
-VCC     3V3
+|TFT    |ESP32     |
+|-------|----------|
+| LED   |   V5     |
+| SCK   |   D27    |
+| SDA   |   D14    |
+| A0    |   D12    |
+| RESET |(not used)|
+| CS    |   D13    |
+| GND   |   GND    |
+| VCC   |   3V3    |
